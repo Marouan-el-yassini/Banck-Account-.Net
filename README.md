@@ -27,20 +27,6 @@
 ---
 
 
-## 🚀 Quick Start
-
-1. **Clone the repo:**
-   ```bash
-   git clone https://github.com/Marouan-el-yassini/Banck-Account-.Net.git
-   ```
-
-2. **Open in Visual Studio:**
-   - Open the `.sln` project file.
-
-3. **Run the Application:**
-   - Press `F5` or click "Start" to launch the app.
-
----
 
 ## 🛠️ Code Structure
 
